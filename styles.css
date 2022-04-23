@@ -131,6 +131,8 @@ hr{
     color: #fff;
     font-weight: 300;
     outline: none;
+    text-decoration: none;
+    font-size: medium;
 }
 .skill-title{
     font-size: 0.75rem;
