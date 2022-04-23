@@ -110,10 +110,12 @@ hr{
 .social-media .icon i{
     color: #03a9f4;
 }
-.personal-details ul{
-    position: relative;
-    margin-bottom: 20px;
-}
+ .personal-details{
+        list-style: none;
+        font-size: 15px;
+        margin: auto;
+ }
+
 .personal-details ul li{
     position: relative;
     list-style: none;
@@ -135,9 +137,7 @@ hr{
     text-decoration: none;
     font-size: medium;
 }
-.contact-info ul li .text{
-    font-size: 16px;
-}
+
 .contact-info ul li span a{
     color: #fff;
     text-decoration: none;
