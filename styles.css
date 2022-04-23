@@ -110,11 +110,20 @@ hr{
 .social-media .icon i{
     color: #03a9f4;
 }
- .personal-details{
-        list-style: none;
-        font-size: 15px;
-        margin: auto;
- }
+.personal-details{
+    list-style: none;
+    font-size: 15px;
+    margin: auto;
+}
+.icon{
+    display: block;
+    margin: auto;
+    padding: 8px;
+    color:#03a9f4 ;
+}
+.fa{
+    color: #03a9f4
+}
 
 .personal-details ul li{
     position: relative;
