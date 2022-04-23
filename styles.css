@@ -160,6 +160,10 @@ hr{
     text-transform: uppercase;
 
 }
+.barback{
+    background-color: #20a7b8;
+    border-radius: 5px;
+}
 .skill-name{
 font-size: 0.65rem;
 text-align: left;
