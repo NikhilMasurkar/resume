@@ -246,6 +246,6 @@ p{
         margin-right: auto;
     }
     .personal-details{
-        font-size:medium ;
+        font: size 0.1em;
     }
 }
